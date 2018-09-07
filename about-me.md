@@ -1,0 +1,1 @@
+This summer, I completed Level 02 of the IMD program.  This included client-side web development which was a steep learning curve.  I managed to get through this course thanks to people like Mayank Girdhard and Stephen Gagné.
